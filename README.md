@@ -19,7 +19,7 @@
 ![Mongodb](https://img.shields.io/badge/mongoDB-228B22.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-<a href="https://github.com/mykaeull/" style="margin-right: 10px">
+<a href="https://github.com/mykaeull/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mykaeull&theme=tokyonight&count_private=true" alt="mykaeull github stats"/>
 </a>
 
