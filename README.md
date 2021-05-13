@@ -22,6 +22,7 @@
 <a href="https://github.com/mykaeull/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mykaeull&theme=tokyonight&count_private=true" alt="mykaeull github stats"/>
 </a>
+<br></br>
 <a href="https://github.com/mykaeull/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaeull&hide=html&theme=tokyonight&langs_count=5" alt="mykaeull github stats" />
 </a>
