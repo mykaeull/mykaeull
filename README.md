@@ -12,7 +12,7 @@
 ![Javascript](https://img.shields.io/badge/javascript-FFFF00.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-%23777BB4.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/nodejs-2CD32.svg?&style=for-the-badge&logo=nodejs&logoColor=white)
+![Node](https://img.shields.io/badge/nodejs-2CD32.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%23FF2D20.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-FFD700.svg?&style=for-the-badge&logo=mysql&logoColor=white)
