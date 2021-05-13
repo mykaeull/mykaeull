@@ -8,7 +8,7 @@
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-006400.svg?&style=for-the-badge&logo=jupyter&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-%23000.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%FFFF00.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-%23777BB4.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%231572B6.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Node](https://img.shields.io/badge/nodejs-2CD32.svg?&style=for-the-badge&logo=nodejs&logoColor=white)
