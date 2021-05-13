@@ -19,14 +19,15 @@
 ![Mongodb](https://img.shields.io/badge/mongoDB-228B22.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-<a href="https://github.com/mykaeull/">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mykaeull&theme=tokyonight&count_private=true" alt="mykaeull github stats"/>
-</a>
+<div style="display: flex; align-items: center; justify-content: space-between">
+ <a href="https://github.com/mykaeull/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mykaeull&theme=tokyonight&count_private=true" alt="mykaeull github stats"/>
+ </a>
 
-<a href="https://github.com/mykaeull/">
+ <a href="https://github.com/mykaeull/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykaeull&hide=html&theme=tokyonight&langs_count=5" alt="mykaeull github stats" />
-</a>
-
+ </a>
+</div>
 <!--
 <h3> &nbsp;Contact me </h3>
 
