@@ -1,7 +1,6 @@
 ### Hi there, I'm Mykaeull Gomes 👋
 #### Front-end Developer 
 
-- 🔭 Trainee developer at Dell Lead
 - 🎓 Undergraduate Computer Science Student at Universidade Federal do Ceará
 
 <h3>&nbsp;Main languages and tools </h3>
